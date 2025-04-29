@@ -11,7 +11,7 @@ All are welcome: current, past, prospective members, and friends of WS-DL ([@Web
 | 12:15  | [title](googledocslink) <br>[Kritika Garg](https://twitter.com/kritika_garg) <p> [link1](URL1), [link2](URL2) |
 | 12:35 | [title](googledocslink) <br> [Kumushini Thennakoon](https://twitter.com/KumushiniT) <p> [link1](URL1), [link2](URL2), [URL3](URL3) |
 | 12:55 | [title](googledocslink) <br> [Lamia Salsabil](https://twitter.com/liya_lamia) <p> [link1](URL1), [link2](URL2) |
-| 1:15 | [title](googledocslink) <br> [Akshat Nayak](https://twitter.com/AkshayKNayak7) <p> [link1](URL1), [link2](URL2), [link3](URL3) (link4](URL4) |
+| 1:15 | [title](googledocslink) <br> [Akshay Nayak](https://twitter.com/AkshayKNayak7) <p> [link1](URL1), [link2](URL2), [link3](URL3) (link4](URL4) |
 | 1:35 | [title](googledocslink) <br> [Jhon G. Botello](https://twitter.com/jhon_gbm12) <p> [link1](URL1), [link2](URL2), [link3](URL3) |
 | 1:55 | Alumni minute madness -- let's hear from you! |
 | 2:30 | Farewell | 
