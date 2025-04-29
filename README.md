@@ -8,11 +8,11 @@ All are welcome: current, past, prospective members, and friends of WS-DL ([@Web
 | Time  | Presentation |
 | --- | --- |
 | noon  | Welcome and brief faculty intro ([Nelson](https://bsky.app/profile/phonedudemln.bsky.social), [Weigle](https://bsky.app/profile/weiglemc.bsky.social), [Wu](https://twitter.com/fanchyna), [Jayarathna](https://twitter.com/openmaze), [Ashok](https://twitter.com/VikasGAshok1), [Poursardar](https://twitter.com/Faryane))  |
-| 12:15  | [title](google docs link) <br>[Kritika Garg](https://twitter.com/kritika_garg) <p> [link1](URL1), [link2](URL2) |
-| 12:35 | [title](google docs link) <br> [Kumushini Thennakoon](https://twitter.com/KumushiniT) <p> [link1](URL1), [link2](URL2), [URL3](URL3) |
-| 12:55 | [title](google docs URL) <br> [Lamia Salsabil](https://twitter.com/liya_lamia) <p> [link1](URL1), [link2](URL2) |
-| 1:15 | [title](google docs URL) <br> [Akshat Nayak](https://twitter.com/AkshayKNayak7) <p> [link1](URL1), [link2](URL2), [link3](URL3) (link4](URL4) |
-| 1:35 | [title](google docs URL) <br> [Jhon G. Botello](https://twitter.com/jhon_gbm12) <p> [link1](URL1), [link2](URL2), [link3](URL3) |
+| 12:15  | [title](googledocslink) <br>[Kritika Garg](https://twitter.com/kritika_garg) <p> [link1](URL1), [link2](URL2) |
+| 12:35 | [title](googledocslink) <br> [Kumushini Thennakoon](https://twitter.com/KumushiniT) <p> [link1](URL1), [link2](URL2), [URL3](URL3) |
+| 12:55 | [title](googledocslink) <br> [Lamia Salsabil](https://twitter.com/liya_lamia) <p> [link1](URL1), [link2](URL2) |
+| 1:15 | [title](googledocslink) <br> [Akshat Nayak](https://twitter.com/AkshayKNayak7) <p> [link1](URL1), [link2](URL2), [link3](URL3) (link4](URL4) |
+| 1:35 | [title](googledocslink) <br> [Jhon G. Botello](https://twitter.com/jhon_gbm12) <p> [link1](URL1), [link2](URL2), [link3](URL3) |
 | 1:55 | Alumni minute madness -- let's hear from you! |
 | 2:30 | Farewell | 
 
